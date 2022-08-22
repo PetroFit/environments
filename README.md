@@ -2,8 +2,12 @@
 
 This repository stores "frozen" conda environment files to serve as references for future installation. The environment files themselves are not provided as installation tools, as they contain more than what is required to run PetroFit, but are intended to serve as guides for compatible versions of packages at the time of each release. 
 
+
 ## Guide to Installing
 
+**Note: Users should use environment files included in their copy of PetroFit for regular installation!** 
+
+As stated above, these files are not intended for installation. 
 If users decide to install an environment, the following commands can come in handy:  
 
 ```
